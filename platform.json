@@ -74,7 +74,7 @@
       "type": "framework",
       "optional": true,
       "owner": "shogunxam",
-      "version": "https://github.com/espressif/arduino-esp32#6b0114366baf986c155e8173ab7c22bc0c5fcedc"
+      "version": "https://github.com/espressif/arduino-esp32#beedeea4541116106b38fc5c3a03821cdf6fe288"
     },
     "framework-arduino-mbcwb": {
       "type": "framework",
